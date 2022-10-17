@@ -523,4 +523,24 @@ select DATEDIFF(day, Fecha, GETDATE()) from Comida;
 -- Dar las comidas efectuadas en Domingo.
 select IdComida from Comida where DATEPART(DW, Fecha) = 7;
 -- Dar el número del mes de cada comida. 
-select DATEPART(MONTH, Fecha) from Comida;
+select DATEPART(MONTH, Fecha) as Hola from Comida;
+
+--Sacar los platos ordenados por su nombre.
+select CodPlato, Plato from Plato order by Plato 
+--Sacar los platos ordenados por su precio de mayor a menor.
+select Plato, Precio from Plato order by Precio DESC;
+--Sacar los platos ordenados por codtpoplato y precio
+select Plato from Plato order by CodPlato, Precio;
+--Sacar las comidas con pagado a S y ordenadas por el número del mes.
+select Pagado, DATENAME(MONTH, Fecha) from Comida order by DATEPART(MONTH, Fecha);
+
+--Sacar los platos con nombre comenzando por A o C.
+select Plato from Plato where SUBSTRING(Plato,1,1) = 'A' or SUBSTRING(Plato,1,1) = 'C';
+--Sacar los platos con nombre que no comiencen ni por A ni por C.
+select Plato from Plato where (SUBSTRING(Plato,1,1) <> 'A') and (SUBSTRING(Plato,1,1) <> 'C'); 
+--Sacar los platos con precio entre 10 y 20 (incluyendo ambos valores)
+select Plato, Precio from Plato where (Precio >= 10) and (Precio  <= 20);
+--Sacar los platos con codtpoplato menor que 3 o con precio menor que 60
+select CodPlato, Precio, Plato from Plato where (CodPlato < 3) or (Precio < 60);
+--Sacar las comidas con pagado a S y del día 17
+select Pagado, Fecha, IdComida from Comida where (Pagado = 'S') and (DATEPART(DAY, Fecha) = 17);
