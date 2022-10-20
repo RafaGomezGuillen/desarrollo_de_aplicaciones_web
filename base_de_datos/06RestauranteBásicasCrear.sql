@@ -544,3 +544,19 @@ select Plato, Precio from Plato where (Precio >= 10) and (Precio  <= 20);
 select CodPlato, Precio, Plato from Plato where (CodPlato < 3) or (Precio < 60);
 --Sacar las comidas con pagado a S y del día 17
 select Pagado, Fecha, IdComida from Comida where (Pagado = 'S') and (DATEPART(DAY, Fecha) = 17);
+
+-- Sacar los platos con nombre comenzando por las letras entre A y C.
+select Plato from Plato where SUBSTRING(Plato,1,1) between 'A' and 'C';  
+--Sacar los platos con precio entre 10 y 20 (incluyendo ambos valores)
+select Plato, Precio from Plato where Precio between 10 and 20;
+--Sacar las comidas entre los días 17 y 20.
+select IdComida, Fecha from Comida where DATEPART(day,Fecha) between 17 and 20;
+
+--Sacar los platos con nombre comenzando por las vocales.
+select Plato from Plato where SUBSTRING(Plato,1,1) in ('A', 'E', 'I', '0', 'U');
+--Sacar los platos con precio 6, 9 ,11 o 16.
+select Plato, Precio from Plato where Precio in (6, 9, 11, 16);
+--Sacar los tpo plato que comienzan con A, B o C
+select CodTipoPlato from Plato where SUBSTRING(Plato, 1, 1) in ('A', 'B', 'C');
+--Sacar las comidas con día de la semana en su fecia Lunes, Jueves o sábado
+select IdComida, Fecha from Comida where DATENAME(WEEKDAY, Fecha) in ('Lunes', 'Jueves', 'Sabado');
