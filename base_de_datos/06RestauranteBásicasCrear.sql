@@ -575,3 +575,4 @@ select Plato from Plato where Plato like 'Lenguado%' or Plato like 'Salmón%';
 select Plato from Plato where Plato like '%[^mínimo]%';
 --Sacar los platos cuyo campo plato terminen con César.
 select Plato from Plato where Plato like '%César';
+
