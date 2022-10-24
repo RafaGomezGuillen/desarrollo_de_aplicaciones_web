@@ -560,3 +560,18 @@ select Plato, Precio from Plato where Precio in (6, 9, 11, 16);
 select CodTipoPlato from Plato where SUBSTRING(Plato, 1, 1) in ('A', 'B', 'C');
 --Sacar las comidas con día de la semana en su fecia Lunes, Jueves o sábado
 select IdComida, Fecha from Comida where DATENAME(WEEKDAY, Fecha) in ('Lunes', 'Jueves', 'Sabado');
+
+--Sacar los platos con nombre comenzando por A iasta F.
+select Plato from Plato where Plato like '[A-F]%';
+--Sacar los tpo de plato con Carnes en el campo TipoPlato.
+select TipoPlato from TipoPlato where TipoPlato like '%Carnes%';
+--Sacar los platos que contengan "ca" en el campo Plato.
+select Plato from Plato where Plato like '%ca%';
+--Sacar las comidas en las mesas que tengan un 1 o un 2 en el tercer carácter.
+select CodMesa from Comida where CodMesa like '__1' or CodMesa like '__2';
+--Sacar los platos que contengan Lenguado o Salmón en el campo Plato.
+select Plato from Plato where Plato like 'Lenguado%' or Plato like 'Salmón%';
+--Sacar los platos que no tengan mínimo en el campo plato.
+select Plato from Plato where Plato like '%[^mínimo]%';
+--Sacar los platos cuyo campo plato terminen con César.
+select Plato from Plato where Plato like '%César';
