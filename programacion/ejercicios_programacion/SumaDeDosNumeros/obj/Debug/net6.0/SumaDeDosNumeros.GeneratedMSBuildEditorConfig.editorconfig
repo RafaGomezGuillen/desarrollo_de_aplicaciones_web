@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = IntercambiarValores
-build_property.ProjectDir = C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion\IntercambiarValores\
+build_property.RootNamespace = SumaDeDosNumeros
+build_property.ProjectDir = C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion\SumaDeDosNumeros\

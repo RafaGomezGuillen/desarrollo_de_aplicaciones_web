@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\my_proyect\\IntercambiarValores\\IntercambiarValores.csproj",
+      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\IntercambiarValores\\IntercambiarValores.csproj",
       "projectName": "IntercambiarValores",
-      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\my_proyect\\IntercambiarValores\\IntercambiarValores.csproj",
+      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\IntercambiarValores\\IntercambiarValores.csproj",
       "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\my_proyect\\IntercambiarValores\\obj\\",
+      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\IntercambiarValores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",

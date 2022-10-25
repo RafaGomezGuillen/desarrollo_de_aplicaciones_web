@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\UnionDeCadena\\UnionDeCadena.csproj",
-      "projectName": "UnionDeCadena",
-      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\UnionDeCadena\\UnionDeCadena.csproj",
+      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
+      "projectName": "SumaDeDosNumeros",
+      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
       "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\UnionDeCadena\\obj\\",
+      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion\\SumaDeDosNumeros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
