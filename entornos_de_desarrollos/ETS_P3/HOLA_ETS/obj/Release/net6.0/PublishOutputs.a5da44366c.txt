@@ -1,0 +1,5 @@
+C:\Users\gomez\OneDrive\Escritorio\publicar_programa\HOLA_ETS.exe
+C:\Users\gomez\OneDrive\Escritorio\publicar_programa\HOLA_ETS.dll
+C:\Users\gomez\OneDrive\Escritorio\publicar_programa\HOLA_ETS.deps.json
+C:\Users\gomez\OneDrive\Escritorio\publicar_programa\HOLA_ETS.runtimeconfig.json
+C:\Users\gomez\OneDrive\Escritorio\publicar_programa\HOLA_ETS.pdb
