@@ -13,7 +13,7 @@ namespace RestaNoNegativa {
 
       int numero_resta = numero_01 - numero_02;
 
-      if (numero_01 > numero_02) {
+      if (numero_01 >= numero_02) {
         Console.WriteLine(numero_01 + " - " + numero_02 + " = " + numero_resta);
       } else {
         numero_resta = numero_01 - (- numero_02);
