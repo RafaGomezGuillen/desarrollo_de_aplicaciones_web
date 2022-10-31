@@ -3,7 +3,7 @@
 namespace PorcentajeAlumnos {
   class Programa05 {
     public static void Main(String[] args) {
-      Console.WriteLine("Porcentaje de alumnosen el curso actual, pasando por teclado el número de chicas y de chicos.");
+      Console.WriteLine("Porcentaje de alumnos en el curso actual, pasando por teclado el número de chicas y de chicos.");
 
       Console.Write("Introduce numero de chicos: ");
       int numero_chicos = Convert.ToInt32(Console.ReadLine());
