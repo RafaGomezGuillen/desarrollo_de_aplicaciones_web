@@ -1,0 +1,46 @@
+body {
+  background-color: #95e1ff;
+  font-family: sans-serif;
+}
+
+div {
+  border-style: solid;
+  background-color: lightyellow;
+  padding-left: 3em;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  margin-right: 62em;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0.3em;
+  empty-cells: hide;
+}
+
+caption {
+  text-align: center;
+  font-weight: bold;
+  border-bottom-style: solid;
+  border-right-style: solid;
+  padding: 0.5em;
+  background-color: #ffffee;
+  font-size: 1.5em;
+}
+
+th {
+  text-align: center;
+  font-weight: bold;
+  border-bottom-style: solid;
+  border-right-style: solid;
+  padding: 1em;
+  background-color: #ffffee;
+}
+
+td {
+  border-bottom-style: solid;
+  border-right-style: solid;
+  text-align: center;
+  padding: 1em;
+  background-color: #ffffee;
+}

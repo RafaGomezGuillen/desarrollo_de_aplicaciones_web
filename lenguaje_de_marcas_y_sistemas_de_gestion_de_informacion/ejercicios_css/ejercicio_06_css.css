@@ -1,5 +1,5 @@
 body {
-  background-color: #E4A476;
+  background-color: #e4a476;
   font-family: sans-serif;
 }
 
@@ -8,16 +8,17 @@ h1 {
 }
 
 h2 {
-  background-color: #C38C65;
+  background-color: #c38c65;
 }
 
 h3 > span.color {
-  background-color: #825D43;
+  background-color: #825d43;
   text-transform: uppercase;
-  color: #F4DAC7;
+  color: #f4dac7;
 }
 
-ol, ul {
+ol,
+ul {
   margin-top: -1.2em;
   margin-left: 2%;
 }

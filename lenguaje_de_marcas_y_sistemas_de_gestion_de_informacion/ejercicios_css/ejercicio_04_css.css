@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(226,221,216);
+  background-color: rgb(226, 221, 216);
 }
 
 p.cabecera {
-  color:white;
-  background-color: rgb(102,153,102);
+  color: white;
+  background-color: rgb(102, 153, 102);
   text-align: right;
   text-transform: uppercase;
 }
@@ -22,7 +22,7 @@ div.intro {
   margin-left: 15%;
   margin-right: 15%;
   font-family: "Comic Sans MS";
-  border-color: rgb(200,218,200);
+  border-color: rgb(200, 218, 200);
   border-left-style: dotted;
   border-right-style: dotted;
   text-indent: 2em;
@@ -30,7 +30,7 @@ div.intro {
 
 div.par > h2 {
   margin-top: -0.05em;
-  background-color: rgb(108,11,25);
+  background-color: rgb(108, 11, 25);
   color: white;
 }
 
@@ -49,7 +49,7 @@ p span.proyecto {
 div.par {
   margin-left: 35%;
   border-style: solid;
-  border-color: rgb(108,11,25);
+  border-color: rgb(108, 11, 25);
   background-color: rgb(212, 184, 184);
   margin-top: 2%;
   text-indent: 2em;
@@ -57,15 +57,15 @@ div.par {
 
 div.impar > h2 {
   margin-top: -0.05em;
-  background-color: rgb(102,153,102);
+  background-color: rgb(102, 153, 102);
   color: white;
 }
 
 div.impar {
-  background-color: rgb(200,218,200);
+  background-color: rgb(200, 218, 200);
   margin-right: 35%;
   border-style: solid;
-  border-color: rgb(102,153,102);
+  border-color: rgb(102, 153, 102);
   margin-top: 2%;
   text-indent: 2em;
 }
@@ -78,7 +78,7 @@ p span.persona {
 address {
   background-color: rgb(212, 184, 184);
   border-top-style: double;
-  border-color: rgb(108,11,25);
+  border-color: rgb(108, 11, 25);
   margin-top: 1%;
   margin-left: 1%;
   margin-right: 1%;

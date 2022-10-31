@@ -1,0 +1,39 @@
+body {
+  background-color: #95e1ff;
+  font-family: sans-serif;
+}
+div {
+  border-style: solid;
+  background-color: lightyellow;
+  padding-left: 3em;
+  padding-bottom: 1em;
+  margin-right: 29em;
+}
+table {
+  border-collapse: collapse;
+}
+
+caption {
+  padding-left: 75%;
+  font-weight: bold;
+}
+
+th {
+  font-size: 1.5em;
+  text-align: right;
+  border-right-style: solid;
+  border-right-color: blue;
+  border-left-style: solid;
+  border-left-color: blue;
+}
+
+td {
+  font-size: 1.5em;
+  border-right-style: solid;
+  border-right-color: blue;
+  border-left-style: solid;
+  border-left-color: blue;
+  text-align: right;
+  padding-right: 2em;
+  padding-left: 2em;
+}
