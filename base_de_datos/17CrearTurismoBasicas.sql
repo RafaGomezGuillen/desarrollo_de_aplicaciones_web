@@ -232,3 +232,8 @@ INSERT INTO [DatosTuristas] ([Id], [grupoedad], [periodo], [sexo], [pais], [turi
 INSERT INTO [DatosTuristas] ([Id], [grupoedad], [periodo], [sexo], [pais], [turistas]) VALUES (198, 'Mayor de 44 años', 2011, 'Mujeres', 'Otros países', 30013)
 -- 198 records
 GO
+
+--Sacar los países con datos, ordenado por el nombre del país.
+select pais from DatosTuristas group by pais order by pais;
+--Sacar los países que hayan tenido algún dato de visitas de 
+--mujeres De 25 a 44 años de más de 30000.
