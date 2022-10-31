@@ -237,3 +237,8 @@ GO
 select pais from DatosTuristas group by pais order by pais;
 --Sacar los países que hayan tenido algún dato de visitas de 
 --mujeres De 25 a 44 años de más de 30000.
+select pais 
+from DatosTuristas
+where sexo = 'Mujeres' and grupoedad = 'De 25 a 44 años' and turistas > 30000
+group by pais;
+
