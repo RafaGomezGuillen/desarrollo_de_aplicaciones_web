@@ -7,14 +7,11 @@
 --CREATE DATABASE [audienciasbasicas]
 --go
 
-USE [audienciasbasicas]
+create Database audienciasbasicas;
 go
 --
 -- Table structure for table 'Datosprogramas'
 --
-
-IF object_id('Datosprogramas', 'U') IS NOT NULL DROP TABLE [Datosprogramas]
-go
 
 CREATE TABLE [Datosprogramas] (
   [Id] INT NOT NULL, 
@@ -311,3 +308,16 @@ INSERT INTO [Datosprogramas]  VALUES (279, 'El Mentalista', 'LA SEXTA', 1441000,
 -- 279 records
 
 go
+
+--Cuántos programas diferentes tene cada cadena con algún share >20
+select Cadena, COUNT(Programa)
+from Datosprogramas
+where Share > 20
+group by Cadena;
+--Media de espectadores que han visto programas punteros en la sexta
+--los lunes, por hora de comienzo
+
+select Programa, AVG(Espectadores)
+from Datosprogramas
+where Cadena = 'LA SEXTA' and DATENAME(DW, FechaHora) = 'Lunes'
+group by Programa;

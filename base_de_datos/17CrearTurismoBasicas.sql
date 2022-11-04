@@ -241,4 +241,8 @@ select pais
 from DatosTuristas
 where sexo = 'Mujeres' and grupoedad = 'De 25 a 44 años' and turistas > 30000
 group by pais;
-
+--Contar cuántos datos hay por grupo de edad.
+select grupoedad, COUNT(*)
+from DatosTuristas 
+group by grupoedad;
+--Dar los 3 países con más turistas en el periodo de 2013.select top 3 with ties turistas, paisfrom DatosTuristaswhere periodo = 2013group by turistas, paisorder by turistas desc;
