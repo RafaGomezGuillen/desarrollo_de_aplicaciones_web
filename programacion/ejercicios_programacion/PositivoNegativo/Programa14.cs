@@ -6,7 +6,7 @@ namespace PositivoNegativo {
       Console.WriteLine("Introducir un número por teclado y mostrar el mensaje de si es positivo o negativo.");
 
       Console.Write("Introduce un número: ");
-      int numero_01 = Convert.ToInt32(Console.ReadLine());
+      double numero_01 = Convert.ToDouble(Console.ReadLine());
       
 
       if (numero_01 > 0) {

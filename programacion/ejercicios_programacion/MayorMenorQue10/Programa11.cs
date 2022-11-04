@@ -7,7 +7,7 @@ namespace MayorMenorQue10 {
                         "menor que diez o igual a diez.");
 
       Console.Write("Introduce el número: ");
-      int numero_01 = Convert.ToInt32(Console.ReadLine());
+      double numero_01 = Convert.ToDouble(Console.ReadLine());
 
       if (numero_01 > 10) {
         Console.WriteLine(numero_01 + " > 10");

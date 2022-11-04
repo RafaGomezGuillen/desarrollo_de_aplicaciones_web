@@ -6,10 +6,10 @@ namespace CalcularCentena {
       Console.WriteLine("Dado un número por teclado, devolver la cifra correspondiente a las centenas.");
 
       Console.Write("Introduce el número: ");
-      int numero_01 = Convert.ToInt32(Console.ReadLine());
-      int numero_cenena = (numero_01 % 1000) / 100;
+      double numero_01 = Convert.ToDouble(Console.ReadLine());
+      double numero_cenena = (numero_01 % 1000) / 100;
 
-      Console.WriteLine("La centena de " + numero_01 + " = " + numero_cenena);
+      Console.WriteLine("La centena de " + numero_01 + " = " + Convert.ToInt32(numero_cenena));
       Console.ReadKey();
     }
   }

@@ -11,7 +11,8 @@ namespace ParImpar {
 
       if (numero_01 % 2 == 0) {
         Console.WriteLine(numero_01 + " es par.");
-      } else {
+      }
+      else {
         Console.WriteLine(numero_01 + " es impar.");
       }
       Console.ReadKey();
