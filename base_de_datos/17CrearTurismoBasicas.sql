@@ -245,4 +245,13 @@ group by pais;
 select grupoedad, COUNT(*)
 from DatosTuristas 
 group by grupoedad;
---Dar los 3 países con más turistas en el periodo de 2013.select top 3 with ties turistas, paisfrom DatosTuristaswhere periodo = 2013group by turistas, paisorder by turistas desc;
+--Dar los 3 países con más turistas en el periodo de 2013.select top 3 SUM(turistas), paisfrom DatosTuristaswhere periodo = 2013group by paisorder by SUM(turistas) desc;--Mostrar la media de turistas por pais para aquellos países
+--con media mayor de 25000 en 2012
+select AVG(turistas) as MediaTuristas, pais
+from DatosTuristas
+where periodo = 2012
+group by pais
+having AVG(turistas) > 25000
+order by AVG(turistas);
+--Mostrar los dos países con mayor suma de turistas en 2013,
+--que tengan datos >23000.select top 2 pais, SUM(turistas) as SumaTuristasfrom DatosTuristaswhere periodo = 2013group by paishaving COUNT(*) > 23000order by SUM(turistas) desc;select top 2 pais, SUM(turistas) as SumaTuristasfrom DatosTuristaswhere periodo = 2013group by paishaving SUM(turistas) > 23000order by SUM(turistas) desc;

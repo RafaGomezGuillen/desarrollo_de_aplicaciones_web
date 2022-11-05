@@ -306,18 +306,32 @@ INSERT INTO [Datosprogramas]  VALUES (277, 'Atrapa un millon:diario', 'ANTENA 3'
 INSERT INTO [Datosprogramas]  VALUES (278, '¡ahora caigo!', 'ANTENA 3', 1478000, 15.8, '2013-05-06 18:44:00')
 INSERT INTO [Datosprogramas]  VALUES (279, 'El Mentalista', 'LA SEXTA', 1441000, 6.9, '2013-05-06 22:27:00')
 -- 279 records
-
 go
 
 --Cuántos programas diferentes tene cada cadena con algún share >20
-select Cadena, COUNT(Programa)
+select Cadena, COUNT(Distinct Programa)
 from Datosprogramas
 where Share > 20
 group by Cadena;
 --Media de espectadores que han visto programas punteros en la sexta
 --los lunes, por hora de comienzo
-
-select Programa, AVG(Espectadores)
+select AVG(Espectadores) as MediaEspectadores, DATEPART(HOUR, FechaHora) as HoraPunta
 from Datosprogramas
 where Cadena = 'LA SEXTA' and DATENAME(DW, FechaHora) = 'Lunes'
-group by Programa;
+group by DATEPART(hour, FechaHora);
+
+--Suma de audiencia de programas para cada cadena en
+--martes y para las cadenas con tres o menos programas.
+select SUM(Espectadores) as Audiencia, Cadena, COUNT(Programa) as NumeroProgramas
+from Datosprogramas
+where DATENAME(DW, FechaHora) = 'Martes'
+group by Cadena
+having COUNT(Programa) <= 3;
+--Mostrar las cadenas con media de share mayor que 10 en el
+--horario de las 10, 11 y 12 de la mañana.
+select Cadena, DATEPART(HOUR, FechaHora) as Hora, AVG(Share) as MediaShare
+from Datosprogramas
+where DATEPART(HOUR, FechaHora) in (10, 11, 12)
+group by Cadena, DATEPART(HOUR, FechaHora)
+having AVG(Share) > 10;
+
