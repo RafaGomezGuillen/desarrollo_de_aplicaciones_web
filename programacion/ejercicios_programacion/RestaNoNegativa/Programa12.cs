@@ -7,18 +7,24 @@ namespace RestaNoNegativa {
                         "No puede devolver el resultado como un número negativo.");
 
       Console.Write("Introduce el primer número: ");
-      double numero_01 = Convert.ToDouble(Console.ReadLine());
+      string cadena_01 = Console.ReadLine();
       Console.Write("Introduce el segundo número: ");
-      double numero_02 = Convert.ToDouble(Console.ReadLine());
+      string cadena_02 = Console.ReadLine();
+      double numero_resta = 0;
 
-      double numero_resta = numero_01 - numero_02;
-
-      if (numero_01 >= numero_02) {
-        Console.WriteLine(numero_01 + " - " + numero_02 + " = " + numero_resta);
+      if (Double.TryParse(cadena_01, out double numero_01) && Double.TryParse(cadena_02, out double numero_02)) {
+        if (numero_01 >= numero_02) {
+          numero_resta = numero_01 - numero_02;
+          Console.WriteLine(numero_01 + " - " + numero_02 + " = " + numero_resta);
+        }
+        else {
+          numero_resta = numero_01 - (-numero_02);
+          Console.WriteLine(numero_01 + " - (-" + numero_02 + ") = " + numero_resta);
+        }
       } else {
-        numero_resta = numero_01 - (- numero_02);
-        Console.WriteLine(numero_01 + " - (-" + numero_02 + ") = " + numero_resta);
+        Console.WriteLine("Los numero introducidos no son numeros.");
       }
+      
       Console.ReadKey();
     }
   }

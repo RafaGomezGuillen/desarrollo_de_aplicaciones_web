@@ -15,25 +15,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PorcentajeAlumnos", "Porcen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertirSegundos", "ConvertirSegundos\ConvertirSegundos.csproj", "{9A6BE2A6-1687-4B36-B34D-BD4020867111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MillasMarinasAMetros", "MillasMarinasAMetros\MillasMarinasAMetros.csproj", "{BA7A8CCE-731F-450C-8539-4F7D8BAE4530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MillasMarinasAMetros", "MillasMarinasAMetros\MillasMarinasAMetros.csproj", "{BA7A8CCE-731F-450C-8539-4F7D8BAE4530}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularPorcentaje", "CalcularPorcentaje\CalcularPorcentaje.csproj", "{4821C738-4B39-48A5-B789-A285D59C683D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularPorcentaje", "CalcularPorcentaje\CalcularPorcentaje.csproj", "{4821C738-4B39-48A5-B789-A285D59C683D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularDescuento", "CalcularDescuento\CalcularDescuento.csproj", "{6CED0C2E-0966-4C1B-AC70-E02A87DB43CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularDescuento", "CalcularDescuento\CalcularDescuento.csproj", "{6CED0C2E-0966-4C1B-AC70-E02A87DB43CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularCentenas", "CalcularCentenas\CalcularCentenas.csproj", "{8D587D63-3EA6-4481-9FF0-1C1896AE4A77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularCentenas", "CalcularCentenas\CalcularCentenas.csproj", "{8D587D63-3EA6-4481-9FF0-1C1896AE4A77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayorMenorQue10", "MayorMenorQue10\MayorMenorQue10.csproj", "{F1AF76C1-0AA8-40AC-AD6D-1D569A107B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MayorMenorQue10", "MayorMenorQue10\MayorMenorQue10.csproj", "{F1AF76C1-0AA8-40AC-AD6D-1D569A107B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaNoNegativa", "RestaNoNegativa\RestaNoNegativa.csproj", "{B694A505-5BAB-4FA6-9F8F-1FC3C4B0643B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaNoNegativa", "RestaNoNegativa\RestaNoNegativa.csproj", "{B694A505-5BAB-4FA6-9F8F-1FC3C4B0643B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division", "Division\Division.csproj", "{684965C1-DEAB-41E6-8841-9C01BEF7A39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division\Division.csproj", "{684965C1-DEAB-41E6-8841-9C01BEF7A39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositivoNegativo", "PositivoNegativo\PositivoNegativo.csproj", "{FBFC030B-DDA3-4E23-8E51-AAC471DA41C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositivoNegativo", "PositivoNegativo\PositivoNegativo.csproj", "{FBFC030B-DDA3-4E23-8E51-AAC471DA41C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar\ParImpar.csproj", "{69419BDA-42AE-442D-9823-6DC37E2770D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParImpar", "ParImpar\ParImpar.csproj", "{69419BDA-42AE-442D-9823-6DC37E2770D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasAlumno", "NotasAlumno\NotasAlumno.csproj", "{72A9FFDA-FE02-4886-B5AC-7BA87B32BFF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotasAlumno", "NotasAlumno\NotasAlumno.csproj", "{72A9FFDA-FE02-4886-B5AC-7BA87B32BFF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioRecuperacion01", "EjercicioRecuperacion01\EjercicioRecuperacion01.csproj", "{A7999F31-131E-4566-BFE4-CFF0DF68C760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioRecuperacion02", "EjercicioRecuperacion02\EjercicioRecuperacion02.csproj", "{6877DE31-BBD6-49FA-B1B1-4442323790BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{72A9FFDA-FE02-4886-B5AC-7BA87B32BFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72A9FFDA-FE02-4886-B5AC-7BA87B32BFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72A9FFDA-FE02-4886-B5AC-7BA87B32BFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7999F31-131E-4566-BFE4-CFF0DF68C760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7999F31-131E-4566-BFE4-CFF0DF68C760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7999F31-131E-4566-BFE4-CFF0DF68C760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7999F31-131E-4566-BFE4-CFF0DF68C760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6877DE31-BBD6-49FA-B1B1-4442323790BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6877DE31-BBD6-49FA-B1B1-4442323790BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6877DE31-BBD6-49FA-B1B1-4442323790BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6877DE31-BBD6-49FA-B1B1-4442323790BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,15 +6,20 @@ namespace PositivoNegativo {
       Console.WriteLine("Introducir un número por teclado y mostrar el mensaje de si es positivo o negativo.");
 
       Console.Write("Introduce un número: ");
-      double numero_01 = Convert.ToDouble(Console.ReadLine());
-      
+      string cadena_01 = Console.ReadLine();
 
-      if (numero_01 > 0) {
-        Console.WriteLine(numero_01 + " es positivo.");
-      } else  if (numero_01 == 0) {
-        Console.WriteLine(numero_01 + " es neutro.");
+      if (Double.TryParse(cadena_01, out double numero_01)) {
+        if (numero_01 > 0) {
+          Console.WriteLine(numero_01 + " es positivo.");
+        }
+        else if (numero_01 == 0) {
+          Console.WriteLine(numero_01 + " es neutro.");
+        }
+        else {
+          Console.WriteLine(numero_01 + " es negativo.");
+        }
       } else {
-        Console.WriteLine(numero_01 + " es negativo.");
+        Console.WriteLine(cadena_01 + " no es un número.");
       }
       Console.ReadKey();
     }

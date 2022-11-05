@@ -7,14 +7,20 @@ namespace MayorMenorQue10 {
                         "menor que diez o igual a diez.");
 
       Console.Write("Introduce el número: ");
-      double numero_01 = Convert.ToDouble(Console.ReadLine());
-
-      if (numero_01 > 10) {
-        Console.WriteLine(numero_01 + " > 10");
-      } else if (numero_01 < 10) {
-        Console.WriteLine(numero_01 + " < 10");
+      string cadena_01 = Console.ReadLine();
+      
+      if (Double.TryParse(cadena_01, out double numero_01)) {
+        if (numero_01 > 10) {
+          Console.WriteLine(numero_01 + " > 10");
+        }
+        else if (numero_01 < 10) {
+          Console.WriteLine(numero_01 + " < 10");
+        }
+        else {
+          Console.WriteLine(numero_01 + " = 10");
+        }
       } else {
-        Console.WriteLine(numero_01 + " = 10");
+        Console.WriteLine(cadena_01 + " no es un numero.");
       }
       Console.ReadKey();
     }
