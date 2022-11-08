@@ -254,4 +254,4 @@ group by pais
 having AVG(turistas) > 25000
 order by AVG(turistas);
 --Mostrar los dos países con mayor suma de turistas en 2013,
---que tengan datos >23000.select top 2 pais, SUM(turistas) as SumaTuristasfrom DatosTuristaswhere periodo = 2013group by paishaving COUNT(*) > 23000order by SUM(turistas) desc;select top 2 pais, SUM(turistas) as SumaTuristasfrom DatosTuristaswhere periodo = 2013group by paishaving SUM(turistas) > 23000order by SUM(turistas) desc;
+--que tengan datos >23000.select top 2 pais, SUM(turistas) as SumaTuristasfrom DatosTuristaswhere periodo = 2013group by paishaving turistas > 23000order by SUM(turistas) desc;

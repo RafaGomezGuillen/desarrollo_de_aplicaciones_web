@@ -322,16 +322,18 @@ group by DATEPART(hour, FechaHora);
 
 --Suma de audiencia de programas para cada cadena en
 --martes y para las cadenas con tres o menos programas.
-select SUM(Espectadores) as Audiencia, Cadena, COUNT(Programa) as NumeroProgramas
+select SUM(Espectadores) as Audiencia, Cadena, COUNT(DISTINCT Programa) as NumeroProgramas
 from Datosprogramas
 where DATENAME(DW, FechaHora) = 'Martes'
 group by Cadena
-having COUNT(Programa) <= 3;
+having COUNT(DISTINCT Programa) <= 3;
 --Mostrar las cadenas con media de share mayor que 10 en el
 --horario de las 10, 11 y 12 de la mañana.
-select Cadena, DATEPART(HOUR, FechaHora) as Hora, AVG(Share) as MediaShare
+select Cadena, AVG(Share) as MediaShare
 from Datosprogramas
 where DATEPART(HOUR, FechaHora) in (10, 11, 12)
-group by Cadena, DATEPART(HOUR, FechaHora)
+group by Cadena
 having AVG(Share) > 10;
+
+
 

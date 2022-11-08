@@ -1,0 +1,15 @@
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\bin\Debug\net6.0\Ejercicio7.exe
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\bin\Debug\net6.0\Ejercicio7.deps.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\bin\Debug\net6.0\Ejercicio7.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\bin\Debug\net6.0\Ejercicio7.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\bin\Debug\net6.0\Ejercicio7.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\refint\Ejercicio7.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\Ejercicio7.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio6_2\obj\Debug\net6.0\ref\Ejercicio7.dll

@@ -1,0 +1,30 @@
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\aleja\source\practicaIV\PracticaIV\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\entornos_de_desarrollos\PracticaIV - C#\PracticaIV\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
