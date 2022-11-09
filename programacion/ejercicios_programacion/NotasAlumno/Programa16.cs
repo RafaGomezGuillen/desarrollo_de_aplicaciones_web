@@ -9,24 +9,28 @@ namespace NotasAlumno {
       Console.Write("Introduce la nota: ");
       string cadena_01 = Console.ReadLine();
 
-      if (Int32.TryParse(cadena_01, out int numero_01)) {
-        if (numero_01 < 5 && numero_01 >= 0) {
-          Console.WriteLine(numero_01 + " es suspenso.");
-        }
-        else if (numero_01 < 7 && numero_01 >= 5) {
-          Console.WriteLine(numero_01 + " es aprobado.");
-        }
-        else if (numero_01 < 9 && numero_01 >= 7) {
-          Console.WriteLine(numero_01 + " es notable.");
-        }
-        else if (numero_01 < 10 && numero_01 >= 9) {
-          Console.WriteLine(numero_01 + " es sobresaliente.");
-        }
-        else if (numero_01 == 10) {
-          Console.WriteLine(numero_01 + " es matricula de honor.");
-        }
-        else {
-          Console.WriteLine("Dato mal introducido.");
+      if (float.TryParse(cadena_01, out float numero_01)) {
+        if ((numero_01 * 100) - Convert.ToInt32(numero_01 * 100) != 0) {
+          Console.WriteLine("Error.");
+        } else {
+          if (numero_01 < 5 && numero_01 >= 0) {
+            Console.WriteLine(numero_01 + " es suspenso.");
+          }
+          else if (numero_01 < 7 && numero_01 >= 5) {
+            Console.WriteLine(numero_01 + " es aprobado.");
+          }
+          else if (numero_01 < 9 && numero_01 >= 7) {
+            Console.WriteLine(numero_01 + " es notable.");
+          }
+          else if (numero_01 < 10 && numero_01 >= 9) {
+            Console.WriteLine(numero_01 + " es sobresaliente.");
+          }
+          else if (numero_01 == 10) {
+            Console.WriteLine(numero_01 + " es matricula de honor.");
+          }
+          else {
+            Console.WriteLine("Dato mal introducido.");
+          }
         }
       } else {
         Console.WriteLine(cadena_01 + " no es un número.");
