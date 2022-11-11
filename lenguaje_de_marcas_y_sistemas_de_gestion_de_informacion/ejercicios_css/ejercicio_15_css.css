@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+div.a {
+  position: relative;
+  left: 400px;
+}
+
+img {
+  width: 700px;
+}
+
+div.b {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-size: 50px;
+  position: relative;
+  left: 450px;
+  bottom: 179px;
+  margin-right: 910px;
+  padding: 10px;
+}
+
+div.b:hover, div.c > p#e {
+  position: relative;
+  bottom: 400px;
+  visibility: visible;
+}
+
+div.c > p#e {
+  background-color: rgba(255, 0, 0, 0.7);
+  color: white;
+  font-size: 30px;
+  visibility: hidden;
+}
