@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MayorMenorQue10/1.0.0": {
+        "runtime": {
+          "MayorMenorQue10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MayorMenorQue10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
