@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj": {}
+    "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj": {
+    "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj",
         "projectName": "MultiplosDeTresHastaTeclado",
-        "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj",
-        "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MultiplosDeTresHastaTeclado\\obj\\",
+        "projectPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj",
+        "packagesPath": "C:\\Users\\Rafael Gómez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael Gómez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
