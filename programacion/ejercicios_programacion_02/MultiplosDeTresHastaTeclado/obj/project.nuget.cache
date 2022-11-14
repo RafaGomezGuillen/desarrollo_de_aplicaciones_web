@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1S8WigItr6rdNnupg38CXmsSpSGA0jCd/DCqOtqxv4Q5AcXs836hYC72NP/kQWcOx3i6C8Z3bobDM82XtzrEog==",
   "success": true,
   "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj",
+=======
+  "dgSpecHash": "vVzi4HFBfdqeSVXmgxZ4CKW3MDVWMJkN4goFOrnaomkplNS4PJiE6UG6cQQbd5yG3aKiHcrdCQEBUTvQyaY23A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\MultiplosDeTresHastaTeclado\\MultiplosDeTresHastaTeclado.csproj",
+>>>>>>> 4947e72954fcc264853aa054cc88dc12fef63ffa
   "expectedPackageFiles": [],
   "logs": []
 }

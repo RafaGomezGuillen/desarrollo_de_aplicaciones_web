@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
         "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\obj\\",
+=======
+    "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
+        "projectName": "Numero1HastaTeclado",
+        "projectPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
+        "packagesPath": "C:\\Users\\Rafael Gómez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\obj\\",
+>>>>>>> 4947e72954fcc264853aa054cc88dc12fef63ffa
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael Gómez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

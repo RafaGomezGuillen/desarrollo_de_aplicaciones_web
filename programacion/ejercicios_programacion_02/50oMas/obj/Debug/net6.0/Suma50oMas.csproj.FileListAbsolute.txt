@@ -13,3 +13,18 @@ C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\e
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicio_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.pdb
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicio_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.genruntimeconfig.cache
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicio_programacion_02\50oMas\obj\Debug\net6.0\ref\Suma50oMas.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\bin\Debug\net6.0\Suma50oMas.exe
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\bin\Debug\net6.0\Suma50oMas.deps.json
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\bin\Debug\net6.0\Suma50oMas.runtimeconfig.json
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\bin\Debug\net6.0\Suma50oMas.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\bin\Debug\net6.0\Suma50oMas.pdb
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.csproj.AssemblyReference.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.AssemblyInfoInputs.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.AssemblyInfo.cs
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\refint\Suma50oMas.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.pdb
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\Suma50oMas.genruntimeconfig.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\50oMas\obj\Debug\net6.0\ref\Suma50oMas.dll
