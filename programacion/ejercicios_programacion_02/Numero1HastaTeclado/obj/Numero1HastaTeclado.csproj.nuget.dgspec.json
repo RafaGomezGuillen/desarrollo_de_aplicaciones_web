@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {}
+    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {
+    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
+        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
         "projectName": "Numero1HastaTeclado",
-        "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
+        "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
         "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\Numero1HastaTeclado\\obj\\",
+        "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",

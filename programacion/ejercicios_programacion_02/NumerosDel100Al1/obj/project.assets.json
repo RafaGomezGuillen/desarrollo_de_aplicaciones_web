@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\NumerosDel100Al1\\NumerosDel100Al1.csproj",
+      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumerosDel100Al1\\NumerosDel100Al1.csproj",
       "projectName": "NumerosDel100Al1",
-      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\NumerosDel100Al1\\NumerosDel100Al1.csproj",
+      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumerosDel100Al1\\NumerosDel100Al1.csproj",
       "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\NumerosDel100Al1\\obj\\",
+      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumerosDel100Al1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",

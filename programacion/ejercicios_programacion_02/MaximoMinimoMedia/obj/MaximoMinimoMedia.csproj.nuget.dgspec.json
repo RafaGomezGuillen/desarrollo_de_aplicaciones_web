@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj": {}
+    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj": {
+    "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj",
+        "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj",
         "projectName": "MaximoMinimoMedia",
-        "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj",
+        "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\MaximoMinimoMedia\\MaximoMinimoMedia.csproj",
         "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicio_programacion_02\\MaximoMinimoMedia\\obj\\",
+        "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\MaximoMinimoMedia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
