@@ -8,8 +8,14 @@ namespace Numeros1HastaTeclado {
       string? cadena_01 = Console.ReadLine();
       int contador = 0;
       if (int.TryParse(cadena_01, out int numero_01)) {
-        while (contador <= numero_01) {
-          contador++;
+        if (numero_01 >= 0) {
+          while (contador < numero_01) {
+            contador++;
+          }
+        } else {
+          while (contador >= numero_01) {
+            contador--;
+          }
         }
       }
       else {
