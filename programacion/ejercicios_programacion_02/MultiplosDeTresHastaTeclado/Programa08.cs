@@ -21,6 +21,7 @@ namespace Numero1HastaTeclado {
         Console.WriteLine(cadena_01 + " no es número");
       }
       Console.WriteLine("Hay " + contador_02 + " números multiplos de 3 de 1 al " + cadena_01);
+      Console.WriteLine("Pulse una tecla para salir...");
       Console.ReadKey();
     }
   }

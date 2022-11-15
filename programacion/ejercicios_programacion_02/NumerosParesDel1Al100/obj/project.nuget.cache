@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "3h0UWw8m09zLr5DqX6fH01YlQvJClAZ7j2sSpL24q7t5dn0GLTm4R1J08jopft4WoVyqH5fYWRTGrGtiZtxqgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumerosParesDel1Al100\\NumerosParesDel1Al100.csproj",
-=======
-  "dgSpecHash": "CEiEzP9TX+3mY+cw4v4xCb1hoiiiil9fMuL1wm0X2FugIg7jkMDqWbZNKIqErJ2Ay4lQ75Ct6wALLL6W0nl2gA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\NumerosParesDel1Al100\\NumerosParesDel1Al100.csproj",
->>>>>>> 4947e72954fcc264853aa054cc88dc12fef63ffa
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumerosParesDel1Al100\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

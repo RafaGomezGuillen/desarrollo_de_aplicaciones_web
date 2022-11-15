@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Q+twt6v9d2VIb1+BsaDIxbm4QSyO60NcxGtpespLfRdPZZyNzvGW7VVc+U6TeYml1k1OJI2ViAwXtAVEmR5rIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumeroImparTeclado\\NumerosImparTeclado.csproj",
-=======
-  "dgSpecHash": "2VRcI5Jid8OGhAH6CkTHmIH3Prh0O/T8DHenOrDdKmT79y5ed7Rrke+oowLklHaOXuqwfb5uVUsHg10/nEsXzQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\NumeroImparTeclado\\NumerosImparTeclado.csproj",
->>>>>>> 4947e72954fcc264853aa054cc88dc12fef63ffa
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\NumeroImparTeclado\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

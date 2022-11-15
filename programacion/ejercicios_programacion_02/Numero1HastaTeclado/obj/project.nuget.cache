@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "Qo87UadaimpoHW9vIHa30Q5/B0jya9yNCkFIGuGro0BYL9XVfk+Qe5ltyWN+03tF9NbeLe09qhB5bG6aAIcIGg==",
+  "dgSpecHash": "blcFfA5kbu8Dtjj6GNijiE5CmMrv6CJZBUDD4qMEEXbkptOmliLM3LeHRIeFcjqf4pcTiG5XR74zQ8Yrl5QD5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
-=======
-  "dgSpecHash": "b0q3fH8M1bonlmwOBtIEZ5dnAQ/WxPY50xCDntV/TlPSMkwripH+A+1VJDsYyqTaqyiUWghNpC0VRSHXwEoUaA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
->>>>>>> 4947e72954fcc264853aa054cc88dc12fef63ffa
+  "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numeros1HastaTeclado.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

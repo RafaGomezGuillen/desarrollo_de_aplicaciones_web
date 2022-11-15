@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NumeroDelPares1Al100 {
+namespace NumerosParesDel1Al100 {
   class Programa03 {
     public static void Main(string[] args) {
       Console.WriteLine("Números pares del 1 al 100");
@@ -12,6 +12,7 @@ namespace NumeroDelPares1Al100 {
         }
         numero_01++;
       }
+      Console.WriteLine("Pulse una tecla para salir...");
       Console.ReadKey();
     }
   }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Numero1HastaTeclado {
+namespace Numeros1HastaTeclado {
   class Programa07 {
     public static void Main(string[] args) {
       Console.Write("Presentar por pantalla los números que hay desde el 1 hasta un número solicitado por teclado" +
@@ -16,6 +16,7 @@ namespace Numero1HastaTeclado {
         Console.WriteLine(cadena_01 + " no es número");
       }
       Console.WriteLine("Hay " + contador + " números de 1 al " + cadena_01);
+      Console.WriteLine("Pulse una tecla para salir...");
       Console.ReadKey();
     }
   }

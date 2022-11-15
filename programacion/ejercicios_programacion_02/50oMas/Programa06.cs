@@ -12,6 +12,7 @@ namespace Suma50oMas {
           suma = suma + numero_01;
           Console.WriteLine("Suma = " + suma);
       }
+      Console.WriteLine("Pulse una tecla para salir...");
       Console.ReadKey();
     }
   }

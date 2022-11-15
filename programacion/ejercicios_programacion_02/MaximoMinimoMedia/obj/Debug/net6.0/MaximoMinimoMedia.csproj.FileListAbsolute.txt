@@ -28,3 +28,18 @@ C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\eje
 C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.pdb
 C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.genruntimeconfig.cache
 C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\ref\MaximoMinimoMedia.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\bin\Debug\net6.0\MaximoMinimoMedia.exe
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\bin\Debug\net6.0\MaximoMinimoMedia.deps.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\bin\Debug\net6.0\MaximoMinimoMedia.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\bin\Debug\net6.0\MaximoMinimoMedia.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\bin\Debug\net6.0\MaximoMinimoMedia.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\refint\MaximoMinimoMedia.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\MaximoMinimoMedia.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_02\MaximoMinimoMedia\obj\Debug\net6.0\ref\MaximoMinimoMedia.dll

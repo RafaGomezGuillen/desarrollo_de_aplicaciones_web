@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Numeros1HastaTeclado/1.0.0": {
+        "runtime": {
+          "Numeros1HastaTeclado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeros1HastaTeclado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

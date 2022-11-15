@@ -10,6 +10,7 @@ namespace NumeroDel1Al100 {
         Console.WriteLine("Número: " + numero_01);
         numero_01++;
       }
+      Console.WriteLine("Pulse una tecla para salir...");
       Console.ReadKey();
     }
   }

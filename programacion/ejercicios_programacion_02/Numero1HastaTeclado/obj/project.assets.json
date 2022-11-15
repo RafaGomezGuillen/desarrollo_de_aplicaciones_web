@@ -8,27 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rafael Gómez\\.nuget\\packages\\": {}
+    "C:\\Users\\gomez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
-      "projectName": "Numero1HastaTeclado",
-      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
+      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numeros1HastaTeclado.csproj",
+      "projectName": "Numeros1HastaTeclado",
+      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numeros1HastaTeclado.csproj",
       "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
-      "projectName": "Numero1HastaTeclado",
-      "projectPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\Numero1HastaTeclado.csproj",
-      "packagesPath": "C:\\Users\\Rafael Gómez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_02\\Numero1HastaTeclado\\obj\\",
->>>>>>> 4947e72954fcc264853aa054cc88dc12fef63ffa
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rafael Gómez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

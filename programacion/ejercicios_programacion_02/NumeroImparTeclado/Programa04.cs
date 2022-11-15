@@ -19,7 +19,8 @@ namespace NumerosImparTeclado {
         }
       } else {
         Console.WriteLine(cadena_01 + " no es número");
-      }   
+      }
+      Console.WriteLine("Pulse una tecla para salir...");
       Console.ReadKey();
     }
   }
