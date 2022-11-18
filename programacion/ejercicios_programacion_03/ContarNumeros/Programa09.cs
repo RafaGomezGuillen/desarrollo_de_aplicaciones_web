@@ -12,7 +12,10 @@ namespace ContarNumeros {
 
       if (int.TryParse(cadena_01, out int numero_01) && int.TryParse(cadena_02, out int numero_02)) {
         if (numero_01 < numero_02) {
-          for (int i = numero_01; i < numero_02; i++) contador++; 
+          for (int i = numero_01; i <= numero_02; i++) {
+            Console.WriteLine(i);
+            contador++;
+          } 
           Console.WriteLine("Hay " + contador + " desde " + numero_01 + " hasta " + numero_02);
         } else {
           Console.WriteLine(numero_02 + " debe ser mayor que " + numero_01);
