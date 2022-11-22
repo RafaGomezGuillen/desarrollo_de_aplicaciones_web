@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eNvUbrticspQHxmf8L/PV2aeu/6Y3/LF3TnjZQOn5ym4vv8PmzLmFTitdFFWpO3OLH+ENE5xu2v/tdv8L0ieEg==",
+  "dgSpecHash": "+enmZ4V0KHa9rkM/k9tIuX1srIQ2HpFi52nLrH4lurh1583hIXIPgvI6R0PmCsqpHypKtOKPEbs/u2kCpjKTcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_05\\Programa02\\Programa02.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_05\\Programa02\\Programa02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Gómez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Rafael Gómez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Rafael Gómez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Rafael Gómez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
