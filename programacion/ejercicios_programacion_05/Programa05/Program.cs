@@ -7,12 +7,20 @@ namespace Programa05 {
 
       Console.Write("Introduce la cadena: ");
       string cadena_01 = Console.ReadLine();
-      
-      if (cadena_01.Contains('a') || cadena_01.Contains('A')) Console.WriteLine(cadena_01 + " contiene la letra a.");
-      if (cadena_01.Contains('e') || cadena_01.Contains('E')) Console.WriteLine(cadena_01 + " contiene la letra e.");
-      if (cadena_01.Contains('i') || cadena_01.Contains('I')) Console.WriteLine(cadena_01 + " contiene la letra i.");
-      if (cadena_01.Contains('o') || cadena_01.Contains('O')) Console.WriteLine(cadena_01 + " contiene la letra o.");
-      if (cadena_01.Contains('u') || cadena_01.Contains('U')) Console.WriteLine(cadena_01 + " contiene la letra u.");
+      bool find_a = false, find_e = false, find_i = false, find_o = false, find_u = false;
+      for (int i = 0; i < cadena_01.Length; i++) {
+        if ((cadena_01[i] == 'a') || (cadena_01[i] == 'A')) find_a = true;
+        if ((cadena_01[i] == 'e') || (cadena_01[i] == 'E')) find_e = true;
+        if ((cadena_01[i] == 'i') || (cadena_01[i] == 'I')) find_i = true;
+        if ((cadena_01[i] == 'o') || (cadena_01[i] == 'O')) find_o = true;
+        if ((cadena_01[i] == 'u') || (cadena_01[i] == 'U')) find_u = true;
+      }
+
+      if (find_a == true) Console.WriteLine(cadena_01 + " contiene a.");
+      if (find_e == true) Console.WriteLine(cadena_01 + " contiene e.");
+      if (find_i == true) Console.WriteLine(cadena_01 + " contiene i.");
+      if (find_o == true) Console.WriteLine(cadena_01 + " contiene o.");
+      if (find_u == true) Console.WriteLine(cadena_01 + " contiene u.");
     }
   }
 }
