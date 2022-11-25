@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -20,4 +19,4 @@
   </PropertyGroup>
 
 </Project>
->>>>>>> f93adadc5256537de8f571fce305ba028541dafd
+
