@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.exe
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.deps.json
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\e
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.pdb
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.genruntimeconfig.cache
 C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\ref\Programa11.dll
+=======
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.exe
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.deps.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\bin\Debug\net6.0\Programa11.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\refint\Programa11.dll
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.pdb
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\Programa11.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\obj\Debug\net6.0\ref\Programa11.dll
+>>>>>>> f93adadc5256537de8f571fce305ba028541dafd

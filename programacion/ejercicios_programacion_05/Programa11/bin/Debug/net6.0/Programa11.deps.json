@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v6.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Programa11/1.0.0": {
+        "runtime": {
+          "Programa11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f93adadc5256537de8f571fce305ba028541dafd
 }
