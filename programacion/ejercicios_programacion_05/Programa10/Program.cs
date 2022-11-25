@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Programa10 {
   class Program {
@@ -13,12 +13,13 @@ namespace Programa10 {
       Console.Write("Introduce una palabra para eliminarla de la frase: ");
       string? cadena_02 = Console.ReadLine();
       string cadena_03 = "";
-      
       for (int i = 0; i < cadena_01.Length; i++) {
-        for (int j = 0; j < cadena_02.Length; j++) {
-          if (cadena_01[i] == cadena_02[j]) {
-            esta = true;
+        if (cadena_01[i] == cadena_02[0]) {
+          for (int j = 0; j < cadena_02.Length; j++) {
+            i++;
           }
+        } else {
+          cadena_03 += cadena_01[i];
         }
       }
       Console.WriteLine(cadena_03);
