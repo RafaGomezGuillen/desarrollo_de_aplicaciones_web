@@ -1,18 +1,8 @@
-<<<<<<< HEAD
 {
   "version": 2,
-  "dgSpecHash": "BeAr1SQPt7vS5pWPj2N9dhs2EGWFsKMUfOzPbtJoAvT1bza5O//DchO385phWKHH3eY7GGCCgt/F2KqQ7t09hg==",
+  "dgSpecHash": "568AaB2WPcDZDxUpxOA66EkoSqtahZNG8Y5JpEWAUK5bmXL9OeNBu02zfraIEwgC4TV0Q4CyLPZQNPLwDLj32Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_05\\Programa13\\Programa13.csproj",
+  "projectFilePath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_05\\Programa13\\Programa13.csproj",
   "expectedPackageFiles": [],
   "logs": []
-=======
-{
-  "version": 2,
-  "dgSpecHash": "BeAr1SQPt7vS5pWPj2N9dhs2EGWFsKMUfOzPbtJoAvT1bza5O//DchO385phWKHH3eY7GGCCgt/F2KqQ7t09hg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\gomez\\OneDrive\\Documentos\\Desarrollo de aplicaciones web\\programacion\\ejercicios_programacion_05\\Programa13\\Programa13.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
->>>>>>> f93adadc5256537de8f571fce305ba028541dafd
 }

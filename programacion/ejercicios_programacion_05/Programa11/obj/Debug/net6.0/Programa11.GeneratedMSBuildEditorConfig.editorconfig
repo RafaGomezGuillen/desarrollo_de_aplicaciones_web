@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
@@ -9,17 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Programa11
-build_property.ProjectDir = C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\
-=======
-is_global = true
-build_property.TargetFramework = net6.0
-build_property.TargetPlatformMinVersion = 
-build_property.UsingMicrosoftNETSdkWeb = 
-build_property.ProjectTypeGuids = 
-build_property.InvariantGlobalization = 
-build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Programa11
-build_property.ProjectDir = C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa11\
->>>>>>> f93adadc5256537de8f571fce305ba028541dafd
+build_property.ProjectDir = C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa11\

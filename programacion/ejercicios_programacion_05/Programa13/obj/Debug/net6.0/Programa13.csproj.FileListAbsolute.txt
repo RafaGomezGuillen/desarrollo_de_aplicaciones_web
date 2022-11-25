@@ -1,33 +1,15 @@
-<<<<<<< HEAD
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.exe
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.deps.json
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.runtimeconfig.json
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.dll
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.pdb
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.csproj.AssemblyReference.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.AssemblyInfoInputs.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.AssemblyInfo.cs
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.csproj.CoreCompileInputs.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.dll
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\refint\Programa13.dll
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.pdb
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.genruntimeconfig.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\ref\Programa13.dll
-=======
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.exe
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.deps.json
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.runtimeconfig.json
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.dll
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.pdb
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.csproj.AssemblyReference.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.AssemblyInfoInputs.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.AssemblyInfo.cs
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.csproj.CoreCompileInputs.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.dll
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\refint\Programa13.dll
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.pdb
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.genruntimeconfig.cache
-C:\Users\gomez\OneDrive\Documentos\Desarrollo de aplicaciones web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\ref\Programa13.dll
->>>>>>> f93adadc5256537de8f571fce305ba028541dafd
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.exe
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.deps.json
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.runtimeconfig.json
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\bin\Debug\net6.0\Programa13.pdb
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.csproj.AssemblyReference.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.AssemblyInfoInputs.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.AssemblyInfo.cs
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\refint\Programa13.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.pdb
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\Programa13.genruntimeconfig.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_05\Programa13\obj\Debug\net6.0\ref\Programa13.dll
