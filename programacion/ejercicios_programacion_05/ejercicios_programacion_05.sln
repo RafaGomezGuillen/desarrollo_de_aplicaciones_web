@@ -15,15 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa05", "Programa05\Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa06", "Programa06\Programa06.csproj", "{EA80233E-2242-44DA-A5D9-1D1CD8874664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa07", "Programa07\Programa07.csproj", "{4EF5DBE2-683A-489F-89DF-17252BDDD0C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa07", "Programa07\Programa07.csproj", "{4EF5DBE2-683A-489F-89DF-17252BDDD0C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa08", "Programa08\Programa08.csproj", "{4759A3DA-2958-4CD4-8DC3-5F7310B9D0DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa08", "Programa08\Programa08.csproj", "{4759A3DA-2958-4CD4-8DC3-5F7310B9D0DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa09", "Programa09\Programa09.csproj", "{C921E1E1-EE12-4CB0-AC41-0FB2E87ADA1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa09", "Programa09\Programa09.csproj", "{C921E1E1-EE12-4CB0-AC41-0FB2E87ADA1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa10", "Programa10\Programa10.csproj", "{266B6050-8066-4498-A013-320166B39325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa10", "Programa10\Programa10.csproj", "{266B6050-8066-4498-A013-320166B39325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa12", "Programa12\Programa12.csproj", "{185726F9-4B90-400B-BA2A-EB3C86622749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa12", "Programa12\Programa12.csproj", "{185726F9-4B90-400B-BA2A-EB3C86622749}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa11", "Programa11\Programa11.csproj", "{6A910C82-6B79-4CD4-B997-C31C3E0ACEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa13", "Programa13\Programa13.csproj", "{1D03E63A-2761-4D10-8A17-F13337E12FBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{185726F9-4B90-400B-BA2A-EB3C86622749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{185726F9-4B90-400B-BA2A-EB3C86622749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{185726F9-4B90-400B-BA2A-EB3C86622749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A910C82-6B79-4CD4-B997-C31C3E0ACEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A910C82-6B79-4CD4-B997-C31C3E0ACEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A910C82-6B79-4CD4-B997-C31C3E0ACEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A910C82-6B79-4CD4-B997-C31C3E0ACEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D03E63A-2761-4D10-8A17-F13337E12FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D03E63A-2761-4D10-8A17-F13337E12FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D03E63A-2761-4D10-8A17-F13337E12FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D03E63A-2761-4D10-8A17-F13337E12FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
