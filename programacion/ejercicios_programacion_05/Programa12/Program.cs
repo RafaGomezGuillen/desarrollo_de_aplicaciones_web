@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Programa12 {
   class Program {
@@ -7,6 +7,7 @@ namespace Programa12 {
       Console.Write("Introduce un caracter: ");
       char caracter_01;
       int numero_01;
+      string cadena_01 = "";
       while (!char.TryParse(Console.ReadLine(), out caracter_01)) {
         Console.Write("ERROR. No ha introducido un caracter. Introduce un caracter: ");
       }
@@ -17,8 +18,9 @@ namespace Programa12 {
       }
 
       for (int i = 1; i <= numero_01; i++) {
-        Console.WriteLine(i + ": " + caracter_01);
+        cadena_01 += caracter_01;
       }
+      Console.WriteLine(cadena_01);
     }
   }
 }
