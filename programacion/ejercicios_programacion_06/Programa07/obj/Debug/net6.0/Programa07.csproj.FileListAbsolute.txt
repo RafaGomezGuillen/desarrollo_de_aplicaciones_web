@@ -1,0 +1,15 @@
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\bin\Debug\net6.0\Programa07.exe
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\bin\Debug\net6.0\Programa07.deps.json
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\bin\Debug\net6.0\Programa07.runtimeconfig.json
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\bin\Debug\net6.0\Programa07.dll
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\bin\Debug\net6.0\Programa07.pdb
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.csproj.AssemblyReference.cache
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.AssemblyInfoInputs.cache
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.AssemblyInfo.cs
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.dll
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\refint\Programa07.dll
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.pdb
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\Programa07.genruntimeconfig.cache
+C:\Users\Rafael Gómez\source\repos\ejercicios_programacion_06\Programa07\obj\Debug\net6.0\ref\Programa07.dll
