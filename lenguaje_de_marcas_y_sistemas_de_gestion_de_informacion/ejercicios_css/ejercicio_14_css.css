@@ -42,6 +42,6 @@ img.rey {
 img.as {
   z-index: 45;
   position: relative;
-  bottom: 80px;
-  left: 120px;
+  bottom: -120px;
+  left: -495px;
 }

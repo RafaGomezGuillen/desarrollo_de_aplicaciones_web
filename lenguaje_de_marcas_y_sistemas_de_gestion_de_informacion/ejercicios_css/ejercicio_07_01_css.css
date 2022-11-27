@@ -2,13 +2,14 @@ body {
   background-color: #95e1ff;
   font-family: sans-serif;
 }
+
 div {
   border-style: solid;
   background-color: lightyellow;
-  padding-left: 3em;
-  padding-bottom: 1em;
-  margin-right: 55%;
+  width: 580px;
+  padding: 10px;
 }
+
 table {
   border-collapse: collapse;
 }
