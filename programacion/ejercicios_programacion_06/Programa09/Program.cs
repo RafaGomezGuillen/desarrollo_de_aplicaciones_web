@@ -10,7 +10,9 @@ namespace Programa09 {
 
       for (int i = 0; i < ElementoMaximo; i++) {
         Console.Write("\n Introduzca los números del vector (" + i + ") : ");
-        Elementos = Convert.ToInt32(Console.ReadLine());
+        while (!decimal.TryParse(Console.ReadLine(), out Elementos)) {
+          Console.Write("Error. Introduzca un número (" + i + ") : ");
+        }
         VectorNumeros[i] = Elementos;
       }
 

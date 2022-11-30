@@ -4,14 +4,22 @@ namespace Programa03 {
   class Program {
     public static void Main(string[] args) {
       Console.WriteLine("Solicitar 10 números distintos por teclado y mostrarlos.");
-      int ElementoMaximo = 10;
+      const int ElementoMaximo = 10;
       double[] NumerosDistintos = new double[ElementoMaximo];
-      double Elementos;
+      double Elementos; 
 
       for (int i = 0; i < ElementoMaximo; i++) {
         Console.Write($"\n Introduzca los elementos del vector (" + i + ") : ");
-        Elementos = Convert.ToDouble(Console.ReadLine());
+        while (!double.TryParse(Console.ReadLine(), out Elementos)) {
+          Console.Write("Error. Introduzca un número (" + i + ") : ");
+        }
         NumerosDistintos[i] = Elementos;
+        for (int j = 0; j < i; j++) {
+          if (NumerosDistintos[i] == NumerosDistintos[j]) {
+            Console.Write("\nError. Introduce un número distinto: ");
+            i--;
+          }
+        }
       }
 
       for (int i = 0; i < ElementoMaximo; i++) {

@@ -4,13 +4,15 @@ namespace Programa01 {
   class Program {
     public static void Main(string[] args) {
       Console.WriteLine("Solicitar 10 números por teclado y calcular su media aritmética.");
-      int ElementoMaximo = 10;
+      const int ElementoMaximo = 10;
       double[] MediaAritmetica = new double[ElementoMaximo];
       double Elementos = 0, SumaElementos = 0;
 
       for (int i = 0; i < ElementoMaximo; i++) {
-        Console.Write("\n Introduzca los elementos del vector: ");
-        Elementos = Convert.ToDouble(Console.ReadLine());
+        Console.Write("\n Introduzca los elementos del vector (" + i + ") : ");
+        while (!double.TryParse(Console.ReadLine(), out Elementos)) {
+          Console.Write("Error. Introduzca un número (" + i + ") : ");
+        }
         MediaAritmetica[i] = Elementos;
         SumaElementos += MediaAritmetica[i];
       }

@@ -21,7 +21,9 @@ namespace Programa06 {
       j = 0;
       while (i < ElementoMaximo && j < ElementoMaximo) {
         Console.Write($"\n Introduzca las notas de: " + NombresAlumnos[j] + " (" + i + ") : ");
-        Elementos = Convert.ToDecimal(Console.ReadLine());
+        while (!decimal.TryParse(Console.ReadLine(), out Elementos)) {
+          Console.Write("Error. Introduzca un número (" + i + ") : ");
+        }
         if (Elementos >= 0 && Elementos <= 10) {
           NotaAlumnos[i] = Elementos;
           SumaElementos += NotaAlumnos[i];

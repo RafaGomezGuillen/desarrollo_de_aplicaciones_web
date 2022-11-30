@@ -27,7 +27,9 @@ namespace Programa08 {
 
       while (i < ElementoMaximoNombreEmpleados && j < ElementoMaximoNombreEmpleados) {
         Console.Write($"\nIntroduzca el sueldo de: " + NombreEmpleados[j] + " (" + i + ") : ");
-        Sueldo = Convert.ToDecimal(Console.ReadLine());
+        while (!decimal.TryParse(Console.ReadLine(), out Sueldo)) {
+          Console.Write("Error. Introduzca un número (" + i + ") : ");
+        }
         SueldoEmpleados[i] = Sueldo;
         TotalSueldo += SueldoEmpleados[i];
         if (SueldoEmpleados[i] > MaximoSueldo) {

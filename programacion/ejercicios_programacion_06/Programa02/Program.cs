@@ -5,13 +5,15 @@ namespace Programa02 {
     public static void Main(string[] args) {
       Console.WriteLine("Solicitar 10 números por teclado. A continuación, solicitar otro. " +
                         "Buscar ese último número entre los 10 primeros y decir, en el caso de que esté, en qué lugar fue introducido.");
-      int ElementoMaximo = 10;
+      const int ElementoMaximo = 10;
       double[] VectorDeNumeros = new double[ElementoMaximo];
       double Elementos = 0, EncontrarNumero = 0;
 
       for (int i = 0; i < ElementoMaximo; i++) {
-        Console.Write("\n Introduzca los elementos del vector: ");
-        Elementos = Convert.ToDouble(Console.ReadLine());
+        Console.Write("\n Introduzca los elementos del vector (" + i + ") : ");
+        while (!double.TryParse(Console.ReadLine(), out Elementos)) {
+          Console.Write("Error. Introduzca un número (" + i + ") : ");
+        }
         VectorDeNumeros[i] = Elementos;
       }
 
