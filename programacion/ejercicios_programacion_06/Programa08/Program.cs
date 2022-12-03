@@ -9,7 +9,7 @@ namespace Programa08 {
       const int MAX_EMPLEADOS = 4;
       string[] NombreEmpleados = new string[MAX_EMPLEADOS];
       string Nombres;
-      int i, j;
+      int i;
 
       for (i = 0; i < MAX_EMPLEADOS; i++) {
         Console.Write("\n Introduzca los nombres del vector (" + i + ") : ");
@@ -22,10 +22,8 @@ namespace Programa08 {
       decimal[] SueldoEmpleados = new decimal[MAX_EMPLEADOS];
       decimal TotalSueldo = 0, MaximoSueldo = SueldoEmpleados[0];
       string MaximoSueldoNombre = "";
-      j = 0; 
-      i = 0;
 
-      while (i < MAX_EMPLEADOS && j < MAX_EMPLEADOS) {
+      for (i = 0; i < MAX_EMPLEADOS; i++) {
         Console.Write($"\nIntroduzca el sueldo de: " + NombreEmpleados[j] + " (" + i + ") : ");
         while (!decimal.TryParse(Console.ReadLine(), out Sueldo)) {
           Console.Write("Error. Introduzca un número (" + i + ") : ");
@@ -34,14 +32,12 @@ namespace Programa08 {
         TotalSueldo += SueldoEmpleados[i];
         if (SueldoEmpleados[i] > MaximoSueldo) {
           MaximoSueldo = SueldoEmpleados[i];
-          MaximoSueldoNombre = NombreEmpleados[j];
-        } 
-        i++;
-        j++;
+          MaximoSueldoNombre = NombreEmpleados[i];
+        }
       }
 
-      for (i = 0, j = 0; i < MAX_EMPLEADOS && j < MAX_EMPLEADOS; i++, j++) {
-        Console.Write("\n" + NombreEmpleados[i] + " cobra en tres meses " + SueldoEmpleados[j] + " euros.");
+      for (i = 0; i < MAX_EMPLEADOS; i++) {
+        Console.Write("\n" + NombreEmpleados[i] + " cobra en tres meses " + SueldoEmpleados[i] + " euros.");
       }
 
       Console.WriteLine("\n\n" + MaximoSueldoNombre + " es el empleado que más cobra con " + MaximoSueldo + " euros.");
