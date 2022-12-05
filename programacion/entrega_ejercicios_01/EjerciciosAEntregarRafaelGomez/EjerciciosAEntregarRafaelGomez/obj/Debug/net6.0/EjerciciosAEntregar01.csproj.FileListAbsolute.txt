@@ -1,0 +1,15 @@
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\bin\Debug\net6.0\EjerciciosAEntregar01.exe
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\bin\Debug\net6.0\EjerciciosAEntregar01.deps.json
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\bin\Debug\net6.0\EjerciciosAEntregar01.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\bin\Debug\net6.0\EjerciciosAEntregar01.dll
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\bin\Debug\net6.0\EjerciciosAEntregar01.pdb
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.dll
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\refint\EjerciciosAEntregar01.dll
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.pdb
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\EjerciciosAEntregar01.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\EjerciciosAEntregarRafaelGomez\EjerciciosAEntregarRafaelGomez\obj\Debug\net6.0\ref\EjerciciosAEntregar01.dll
