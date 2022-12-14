@@ -8,7 +8,7 @@ namespace Programa05 {
                         "\nA continuación, debe contar el número de alumn@s aproba@s y el número de alumn@s suspendid@s, " +
                         "\nasí como la media de notas del grupo.");
 
-      const int MAXIMO_ELEMENTO = 5;
+      const int MAXIMO_ELEMENTO = 20;
       int[] listaAlumnos = new int[MAXIMO_ELEMENTO];
 
       for (int i = 0; i < MAXIMO_ELEMENTO; i++) {
@@ -18,7 +18,7 @@ namespace Programa05 {
         }
       }
       int numeroAprobados = 0, numeroSuspendidos = 0;
-      decimal media = 0;
+      decimal media = 0, suma = 0;
 
       Console.Write("\nVector inicial: ");
       for (int i = 0; i < MAXIMO_ELEMENTO; i++) {
@@ -28,10 +28,11 @@ namespace Programa05 {
         } else {
           numeroSuspendidos++;
         }
-        decimal suma = 0;
-        suma += Convert.ToDecimal(listaAlumnos[i]);
-        media = suma / Convert.ToDecimal(MAXIMO_ELEMENTO);
+        suma += listaAlumnos[i];
       }
+
+      media = suma / Convert.ToDecimal(MAXIMO_ELEMENTO);
+
       Console.WriteLine("\nNúmeros aprobados: " + numeroAprobados);
       Console.WriteLine("Números suspendidos: " + numeroSuspendidos);
       Console.WriteLine("Media del grupo: " + media);
