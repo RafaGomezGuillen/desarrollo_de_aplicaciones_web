@@ -1,6 +1,6 @@
 body {
   background-color: yellow;
-  background-image: url("../imagenes/notepad.jpg");
+  background-image: url("../../imagenes/notepad.jpg");
   background-repeat: repeat-y;
   padding-left: 128px;
 }
