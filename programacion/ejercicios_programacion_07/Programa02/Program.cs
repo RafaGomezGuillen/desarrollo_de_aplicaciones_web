@@ -10,32 +10,35 @@ namespace Programa02 {
 
       string dni = "";
       string numerosDni = "";
+      // Introduzco el DNI entero
       Console.Write("\nIntroduce el DNI: ");
       dni = Console.ReadLine(); 
 
+      // Guardo en numerosDNI los números del DNI
       for (int i = 0; i < dni.Length - 1; i++) {
         numerosDni += dni[i];
       }
 
+      // Convierto estos números a entero. ERROR: si el usuario no introduce un número 
       int numeros;
-      bool esNumero = int.TryParse(numerosDni, out numeros);
       numeros = Convert.ToInt32(numerosDni);
 
       string letras = "TRWAGMYFPDXBNJZSQVHLCKE";
       string ultimaLetra = "";
 
+      // Si los numeros % 23 es igual a i (posición) correcto
       for (int i = 0; i < letras.Length; i++) {
         if (numeros % 23 == i) {
           ultimaLetra += letras[i];
         }
       }
-   
-      while ((dni.Length != 9) || (ultimaLetra != Convert.ToString(dni[dni.Length - 1])) || (esNumero == false)) {
-        Console.Write("Error. El DNI debe tener una 8 digitos y una letra al final");
-        dni = Console.ReadLine();
-      }
-
-      Console.WriteLine(dni + " correcto");
+      
+      // Digo si es incorrecto o no
+      if (ultimaLetra != Convert.ToString(dni[dni.Length - 1])) {
+        Console.Write("Error. La letra no coincide. Este DNI " + dni + " es incorrecto.");
+      } else {
+        Console.WriteLine(dni + " correcto");
+      }  
     }
   }
 }
