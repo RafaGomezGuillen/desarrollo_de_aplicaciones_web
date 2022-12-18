@@ -1,0 +1,15 @@
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\bin\Debug\net6.0\Programa08.exe
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\bin\Debug\net6.0\Programa08.deps.json
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\bin\Debug\net6.0\Programa08.runtimeconfig.json
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\bin\Debug\net6.0\Programa08.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\bin\Debug\net6.0\Programa08.pdb
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.csproj.AssemblyReference.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.AssemblyInfoInputs.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.AssemblyInfo.cs
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\refint\Programa08.dll
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.pdb
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\Programa08.genruntimeconfig.cache
+C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa08\obj\Debug\net6.0\ref\Programa08.dll
