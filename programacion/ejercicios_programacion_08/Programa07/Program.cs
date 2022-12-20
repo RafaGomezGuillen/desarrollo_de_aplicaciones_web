@@ -24,7 +24,7 @@ namespace Programa07 {
       for(int i = 0; i < numeroProductos; i++) {
         Console.Write("\nIntroduce el precio de los prodcutos (" + i + ") : ");
         while(!decimal.TryParse(Console.ReadLine(), out vectorPrecios[i]) || vectorPrecios[i] <= 0) {
-          Console.Write("\nERROR. Introduce el precio de los prodcutos (" + i + ") :");
+          Console.Write("\nERROR. Introduce el precio de los productos (" + i + ") :");
         }
       }
 
