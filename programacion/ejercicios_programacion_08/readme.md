@@ -17,18 +17,18 @@
 8.	Escriba un programa para representar mediante barras de asteriscos 10 números recogidos por teclado con valores enteros entre 1 y 20. Los 10 números se introducen separados por un espacio mediante un string.
 - Por ejemplo:
 Entrados los números:
-1 8 3 14 5 10 7 11 9 10
+- 1 8 3 14 5 10 7 11 9 10
 * el resultado es:
-1	*
-8	********
-3	***
-14	**************
-5	*****
-10	**********
-7	*******
-11	***********
-9	*********
-10	**********
+- 1	*
+- 8	********
+- 3	***
+- 14	**************
+- 5	*****
+- 10	**********
+- 7	*******
+- 11	***********
+- 9	*********
+- 10	**********
 
 9. Un viajero quiere gestionar todos los gastos que hizo en su último viaje con la tarjeta de crédito, pero no sabe cuántos fueron, pero sí tiene los tickets o facturas correspondientes. Estos gatos los puede clasificar en cuatro tipos: comida, hospedaje, transporte y ropa. Escriba un programa, que haga uso de vectores, y le permita al viajero determinar:
 - Gastos totales discriminados por tipo.
