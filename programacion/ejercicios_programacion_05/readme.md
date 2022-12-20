@@ -1,4 +1,4 @@
-#Ejercicios de Programación.
+# Ejercicios de Programación.
 ## Strings
 1.	Dada una cadena de caracteres introducida por teclado, contar el número de caracteres que la componen.
 
