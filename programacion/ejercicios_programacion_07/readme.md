@@ -49,10 +49,10 @@ el resultado es:
 
 
 5. Escriba un programa que lea desde teclado valores para un vector con 20 números enteros positivos que representan las notas de alumnado (entre 0 y 10) y muestre por pantalla su contenido. A continuación, debe contar el número de alumn@s aproba@s y el número de alumn@s suspendid@s, así como la media de notas del grupo.
-  Vector inicial: 5 4 3 5 2 9 6 8 10 3 5 6 4 2 4 9 7 3 4 7
-  Número de aprobados: 11
-  Número de suspendidos: 9	
-  Media del grupo: 5,30
+  - Vector inicial: 5 4 3 5 2 9 6 8 10 3 5 6 4 2 4 9 7 3 4 7
+  - Número de aprobados: 11
+  - Número de suspendidos: 9	
+  - Media del grupo: 5,30
 
 
 6.  Escriba un programa que solicite 20 números enteros positivos, y los vaya insertando ordenados en un vector. Cada vez que insertamos un número, presentamos todos 
@@ -61,11 +61,11 @@ los elementos que ya hemos insertado hasta ese momento.
 
 7. Realizar el algoritmo que, solicitada una cantidad de elementos de un vector, y el límite superior e inferior de los datos a calcular, rellenar con elementos aleatorios dentro de los límites pedidos dicho vector y lo presente por pantalla. A continuación, pida por teclado un nuevo valor  que debe cumplir las mismas condiciones de los anteriores y una posición que debe estar dentro de los límites del vector inicial. Crear un nuevo vector que contenga la información del vector inicial pero insertando el valor pedido en la posición pedida. Finalmente, mostrar ambos vectores al final.
 
-Solicita el número de posiciones iniciales: 15
-Límite inferior: 2
-Límite superior:10
-Vector inicial: 5 4 3 5 2 9 4 8 10 3 5 6 4 2 4
-Dato nuevo: 5
-Posición: 7
-Vector inicial: 5 4 3 5 2 9 4 8 10 3 5 6 4 2 4
-Vector final: 5 4 3 5 2 9 5 4 8 10 3 5 6 4 2 4
+- Solicita el número de posiciones iniciales: 15
+- Límite inferior: 2
+- Límite superior:10
+- Vector inicial: 5 4 3 5 2 9 4 8 10 3 5 6 4 2 4
+- Dato nuevo: 5
+- Posición: 7
+- Vector inicial: 5 4 3 5 2 9 4 8 10 3 5 6 4 2 4
+- Vector final: 5 4 3 5 2 9 5 4 8 10 3 5 6 4 2 4
