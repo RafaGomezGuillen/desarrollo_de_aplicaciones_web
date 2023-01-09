@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rafael Gómez\\.nuget\\packages\\": {}
+    "C:\\Users\\gomez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_08\\Programa06\\Programa06.csproj",
+      "projectUniqueName": "C:\\Users\\gomez\\OneDrive\\Documentos\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_08\\Programa06\\Programa06.csproj",
       "projectName": "Programa06",
-      "projectPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_08\\Programa06\\Programa06.csproj",
-      "packagesPath": "C:\\Users\\Rafael Gómez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael Gómez\\Documents\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_08\\Programa06\\obj\\",
+      "projectPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_08\\Programa06\\Programa06.csproj",
+      "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gomez\\OneDrive\\Documentos\\desarrollo_de_aplicaciones_web\\programacion\\ejercicios_programacion_08\\Programa06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rafael Gómez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
