@@ -13,3 +13,18 @@ C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\eje
 C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.pdb
 C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.genruntimeconfig.cache
 C:\Users\Rafael Gómez\Documents\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\ref\Programa12.dll
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\bin\Debug\net6.0\Programa12.exe
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\bin\Debug\net6.0\Programa12.deps.json
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\bin\Debug\net6.0\Programa12.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\bin\Debug\net6.0\Programa12.dll
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\bin\Debug\net6.0\Programa12.pdb
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.dll
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\refint\Programa12.dll
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.pdb
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\Programa12.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\desarrollo_de_aplicaciones_web\programacion\ejercicios_programacion_08\Programa12\obj\Debug\net6.0\ref\Programa12.dll
