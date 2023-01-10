@@ -7,7 +7,7 @@ namespace Programa05 {
 
       // Pido la cadena inicial
       Console.Write("\t\nIntroduce una cadena: ");
-      string cadenaInicial = Console.ReadLine();
+      string? cadenaInicial = Console.ReadLine();
 
       // Comprueba que no sea vacia
       while (cadenaInicial == null) {
