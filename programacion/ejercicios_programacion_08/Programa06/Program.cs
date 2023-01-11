@@ -25,6 +25,20 @@ namespace Programa06 {
       }
       Console.WriteLine(cadenaInicial + " contiene " + contadorMayuscula + " mayúsculas.");
       Console.WriteLine(cadenaInicial + " contiene " + contadorMinuscula + " minúsculas.");
+
+      // Otra manera de hacerlo
+      contadorMayuscula = 0; 
+      contadorMinuscula = 0;
+
+      foreach(char letra in cadenaInicial) {
+        if (char.IsUpper(letra)) {
+          contadorMayuscula++;
+        } else if (char.IsLower(letra)) {
+          contadorMinuscula++;
+        }
+      }
+      Console.WriteLine(cadenaInicial + " contiene " + contadorMayuscula + " mayúsculas.");
+      Console.WriteLine(cadenaInicial + " contiene " + contadorMinuscula + " minúsculas.");
     }
   }
 }
